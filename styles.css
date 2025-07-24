@@ -1,0 +1,21 @@
+body {
+  background:cadetblue;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  color:lightsteelblue;
+  font-family:inherit;
+}
+h2{
+  font-family:cursive;
+  color:white
+}
+img {
+  height:300px;
+ float:right;
+  border-style:dotted;
+  border-color:lightcyan
+}
